@@ -18,7 +18,7 @@ The scripts and instructions used to produce the files in this repository. The p
    ```
    python3 tools/compile_markdown.py     # -> book-of-mormon-1852.md
    python3 tools/make_plaintext.py       # -> book-of-mormon-1852.txt
-   python3 tools/make_sparse.py          # -> book-of-mormon-1852-sparse.txt
+   python3 tools/make_sparse.py          # -> book-of-mormon-1852-sparse.txt (no verse numbers) and -sparse-verses.txt
    python3 tools/make_typo_catalog.py    # -> printer-typos.md
    python3 tools/make_uncertain_log.py   # -> uncertain-log.md
    python3 tools/make_duplicates_log.py # -> duplicates-log.md

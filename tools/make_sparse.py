@@ -11,7 +11,10 @@ The compiled Markdown carries <!-- page NNN --> markers, which this script uses
 to decide what is in range. PAGE_RANGES is specific to the scan (PDF page
 numbers, not printed folios): see transcription-notes.md §1.
 
-Usage:  python3 tools/make_sparse.py [--md FILE] [--out FILE] [--verbose]
+Writes two files: book-of-mormon-1852-sparse.txt (verse numbers removed) and
+book-of-mormon-1852-sparse-verses.txt (verse numbers kept).
+
+Usage:  python3 tools/make_sparse.py [--md FILE] [--out FILE] [--out-verses FILE] [--verbose]
 """
 import argparse
 import re
@@ -60,10 +63,18 @@ def plain(l):
     return re.sub(r'(?<=\S) {2,}(?=\S)', ' ', l).strip()
 
 
+VERSE_NUM = re.compile(r'^\d+\.\s+')
+
+
+def strip_verse(p):
+    return VERSE_NUM.sub('', p, count=1)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--md', default=str(ROOT / 'book-of-mormon-1852.md'))
     ap.add_argument('--out', default=str(ROOT / 'book-of-mormon-1852-sparse.txt'))
+    ap.add_argument('--out-verses', default=str(ROOT / 'book-of-mormon-1852-sparse-verses.txt'))
     ap.add_argument('--verbose', action='store_true', help='list the paragraphs that were dropped')
     args = ap.parse_args()
 
@@ -78,10 +89,11 @@ def main():
             kept.append(p)
         else:
             dropped.append((pg, p))
-    text = '\n\n'.join(q for q in (plain(p) for p in kept) if q) + '\n'
-    text = re.sub(r'\n{3,}', '\n\n', text)
-    Path(args.out).write_text(text, encoding='utf-8')
-    print(f'kept {len(kept)} paragraphs, dropped {len(dropped)}, {len(text.split())} words -> {args.out}')
+    for out, fn in ((args.out, strip_verse), (args.out_verses, lambda p: p)):
+        text = '\n\n'.join(q for q in (fn(plain(p)) for p in kept) if q) + '\n'
+        text = re.sub(r'\n{3,}', '\n\n', text)
+        Path(out).write_text(text, encoding='utf-8')
+        print(f'kept {len(kept)} paragraphs, dropped {len(dropped)}, {len(text.split())} words -> {out}')
     if args.verbose:
         for pg, p in dropped:
             print(pg, p[:70])
