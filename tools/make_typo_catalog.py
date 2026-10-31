@@ -73,7 +73,7 @@ Spellings that were normal or intentional for the period or the edition are not 
 
 
 def load(md):
-    raw = md.read_text(encoding='utf-8')
+    raw = pagelist.strip_frontmatter(md.read_text(encoding='utf-8'))
     parts = re.split(r'<!-- page (\d+)[ab]? -->', raw)
     segs, cur = [], 0
     for i, t in enumerate(parts):

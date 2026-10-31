@@ -1,3 +1,16 @@
+---
+title: The Book of Mormon (Liverpool, 1852)
+translator: Joseph Smith Jr.
+publisher: Franklin D. Richards
+place: Liverpool
+publication_year: 1852
+source_scan: https://archive.org/details/book-of-mormon-1852-liverpool-edition
+source_scan_supplement: https://archive.org/details/BookOfMormon1852LiverpoolEdition (printed pp. 134-135, Enos, missing from the main scan)
+transcription_method: AI-assisted transcription from page images; one blind AI proofread of every text page; owner review of 195 flagged items; no full human proofread
+repository: https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-mormon
+version: "v1.0.0 (2026-10-31, 88a940d)"
+---
+
 <!-- page 008 -->
 
 THE BOOK OF MORMON.

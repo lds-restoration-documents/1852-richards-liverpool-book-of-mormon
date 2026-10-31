@@ -15,7 +15,9 @@ The page marker carries the file label (e.g. <!-- page 154a -->). Verse numbers 
 Usage:  python3 tools/compile_markdown.py [--pages-dir DIR] [--out FILE]
 """
 import argparse
+import datetime
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -27,6 +29,45 @@ ROOT = Path(__file__).resolve().parents[1]
 # Whole words the printer left a hyphen after at a page end (stray hyphens, not word breaks): never joined.
 # Add them here when check_structure/compile output shows a glued word (1830 had 'sat', 'the').
 KEEP_HYPHEN = set()
+
+FRONTMATTER = """---
+title: The Book of Mormon (Liverpool, 1852)
+translator: Joseph Smith Jr.
+publisher: Franklin D. Richards
+place: Liverpool
+publication_year: 1852
+source_scan: https://archive.org/details/book-of-mormon-1852-liverpool-edition
+source_scan_supplement: https://archive.org/details/BookOfMormon1852LiverpoolEdition (printed pp. 134-135, Enos, missing from the main scan)
+transcription_method: AI-assisted transcription from page images; one blind AI proofread of every text page; owner review of 195 flagged items; no full human proofread
+repository: https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-mormon
+version: "{version}"
+---
+
+"""
+
+
+def build_version(pages_dir):
+    """Latest release tag, build date and the short hash of the last commit that touched the page files,
+    e.g. 'v1.0.0 (2026-10-31, 88a940d)'. '+modified' follows the tag when the page files differ from the
+    tagged release (later commits or uncommitted edits); '+dirty' is added to the hash for uncommitted page edits.
+    Without any tag: '2026-10-31+88a940d'."""
+    def git(*a):
+        return subprocess.run(['git', '-C', str(ROOT), *a], capture_output=True, text=True, check=True).stdout.strip()
+    today = datetime.date.today().isoformat()
+    try:
+        h = git('log', '-1', '--format=%h', '--', str(pages_dir)) or 'uncommitted'
+        dirty = bool(git('status', '--porcelain', '--', str(pages_dir)))
+        if dirty:
+            h += '+dirty'
+        try:
+            tag = git('describe', '--tags', '--abbrev=0')
+        except subprocess.CalledProcessError:
+            return f'{today}+{h}'
+        if dirty or git('diff', '--name-only', tag, '--', str(pages_dir)):
+            tag += '+modified'
+        return f'{tag} ({today}, {h})'
+    except (OSError, subprocess.CalledProcessError):
+        return f'{today}+unknown'
 
 
 def clean_page(t):
@@ -85,6 +126,7 @@ def main():
 
     files = [str(f) for f in pagelist.main_order(args.pages_dir)]
     text, joined = compile_pages(files)
+    text = FRONTMATTER.format(version=build_version(args.pages_dir)) + text
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'{len(files)} pages, {joined} joins, {len(text.split())} words -> {args.out}')
 

@@ -8,7 +8,11 @@ Usage:  python3 tools/make_plaintext.py [--md FILE] [--out FILE]
 """
 import argparse
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import pagelist  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -40,7 +44,7 @@ def main():
     ap.add_argument('--md', default=str(ROOT / 'book-of-mormon-1852.md'))
     ap.add_argument('--out', default=str(ROOT / 'book-of-mormon-1852.txt'))
     args = ap.parse_args()
-    s = to_plaintext(Path(args.md).read_text(encoding='utf-8'))
+    s = to_plaintext(pagelist.strip_frontmatter(Path(args.md).read_text(encoding='utf-8')))
     Path(args.out).write_text(s, encoding='utf-8')
     print(f'{len(s.split())} words -> {args.out}')
 

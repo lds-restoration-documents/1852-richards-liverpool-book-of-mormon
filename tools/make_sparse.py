@@ -18,7 +18,11 @@ Usage:  python3 tools/make_sparse.py [--md FILE] [--out FILE] [--out-verses FILE
 """
 import argparse
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import pagelist  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -81,7 +85,7 @@ def main():
     if not PAGE_RANGES:
         raise SystemExit('PAGE_RANGES is empty: set the Book of Mormon page ranges at the top of this script first.')
 
-    items = annotate(Path(args.md).read_text(encoding='utf-8'))
+    items = annotate(pagelist.strip_frontmatter(Path(args.md).read_text(encoding='utf-8')))
     kept, dropped = [], []
     for pg, p in items:
         if (in_range(pg) and not END_MARKERS.fullmatch(p.strip())

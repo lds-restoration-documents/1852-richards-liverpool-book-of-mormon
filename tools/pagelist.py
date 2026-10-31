@@ -66,3 +66,12 @@ def header_folio(path):
         if re.fullmatch(r'\d+|[ivxl]+\.?', x, re.I):
             return x.rstrip('.')
     return None
+
+
+def strip_frontmatter(t):
+    """Remove the YAML frontmatter block that compile_markdown.py puts at the top of book-of-mormon-1852.md."""
+    if t.startswith('---\n'):
+        end = t.find('\n---\n', 4)
+        if end != -1:
+            return t[end + 5:].lstrip('\n')
+    return t
