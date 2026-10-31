@@ -1,0 +1,12 @@
+<!-- image 176 -->
+**Header:** CHAP. III.] | BOOK OF MOSIAH. | 155
+
+<!-- cont --> ye are condemned, and your condemnation is just; for ye covet that which ye have not received.
+
+5. And now, for the sake of these things which I have spoken unto you; that is, for the sake of retaining a remission of your sins from day to day, that ye may walk guiltless before God, I would that ye should impart of your substance to the poor, every man according to that which he hath, such as feeding the hungry, clothing the naked, visiting the sick, and administering to their relief, both spiritually and temporally, according to their wants, and see that all these things are done in wisdom and order; for it is not requisite that a man should run faster than he has strength. And again: It is expedient that he should be diligent, that thereby he might win the prize; therefore, all things must be done in order. And I would that ye should remember, that whosoever among you that borroweth of his neighbour, should return the thing that he borroweth, according as he doth agree, or else thou shalt commit sin, and perhaps thou shalt cause thy neighbour to commit sin also. And finally, I cannot tell you all the things whereby ye may commit sin; for there are divers ways and means, even so many, that I cannot number them. But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER III.
+
+1. AND now, it came to pass that when king Benjamin had thus spoken to his people, he sent among them, desiring to know of his people, if they believed the words which he had spoken unto them. And they all cried with one voice, saying, Yea, we believe all the words which thou hast spoken unto us; and also, we know of their surety and truth, because of the Spirit of the Lord Omnipotent, which has wrought a mighty change in us, or in our hearts, that we have no more disposition to do evil, but to do good continually. And we, ourselves, also, through the infinite goodness of God, and the manifestations of his Spirit, have great views of that which is to come; and were it expedient, we could prophesy of all things. And it is the faith which we have had on the

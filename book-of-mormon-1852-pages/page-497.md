@@ -1,0 +1,12 @@
+<!-- image 497 -->
+**Header:** 462 | BOOK OF NEPHI. | [CHAP. VI.
+
+13. Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and thieves break through and steal, but lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal. For where your treasure is, there will your heart be also. The light of the body is the eye, if therefore thine eye be single, thy whole body shall be full of light. But if thine eye be evil, thy whole body shall be full of darkness. If, therefore, the light that is in thee be darkness, how great is that darkness! No man can serve two masters, for either he will hate the one, and love the other; or else he will hold to the one and despise the other. Ye cannot serve God and Mammon.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER VI.
+
+1. AND now it came to pass that when Jesus had spoken these words, he looked upon the twelve whom he had chosen, and said unto them, remember the words which I have spoken. For behold, ye are they whom I have chosen to minister unto this people. Therefore I say unto you, take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment? Behold the fowls of the air, for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they? Which of you by taking thought can add one cubit unto his stature? And why take ye thought for raiment? Consider the lilies of the field how they grow; they toil not, neither do they spin; and yet I say unto you, that even Solomon, in all his glory, was not arrayed like one of these. Wherefore, if God so clothe the grass of the field, which to-day is, and to-morrow is cast into the oven, even so will he clothe you, if ye are not of little faith. Therefore take no thought, saying, what shall we eat? or, what shall we drink? or wherewithal shall we be clothed? For your heavenly Father knoweth that ye have need of all these things. But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you. Take therefore no thought for the morrow, for the morrow shall take thought for the things of itself. Sufficient is the day unto the evil thereof.
+
+2. And now it came to pass that when Jesus had spoken

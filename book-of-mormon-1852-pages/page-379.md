@@ -1,0 +1,12 @@
+<!-- image 379 -->
+**Header:** 346 | BOOK OF ALMA. | [CHAP. XXII.
+
+<!-- cont --> with an oath that he would drink his blood; and this because Moroni had kept the commandments of God in preparing for the safety of his people. And it came to pass, that on the other hand, the people of Nephi did thank the Lord their God, because of his matchless power in delivering them from the hands of their enemies. And thus ended the nineteenth year of the reign of the Judges over the people of Nephi: yea, and there was continual peace among them, and exceeding great prosperity in the church because of their heed and diligence which they gave unto the word of God, which was declared unto them by Helaman, and Shiblon, and Corianton, and Ammon and his brethren, &c.: yea, and by all those who had been ordained by the holy order of God, being baptized unto repentance, and sent forth to preach among the people, &c.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER XXII.
+
+1. And now it came to pass that Moroni did not stop making preparations for war, or to defend his people against the Lamanites; for he caused that his armies should commence in the commencement of the twentieth year of the reign of the Judges, that they should commence in digging up heaps of earth round about all the cities, throughout all the land which was possessed by the Nephites; and upon the top of these ridges of earth, he caused that there should be timbers; yea, works of timbers built up to the height of a man, round about the cities. And he caused that upon those works of timbers, there should be a frame of pickets built upon the timbers round about; and they were strong and high: and he caused towers to be erected that overlooked those works of pickets, and he caused places of security to be built upon those towers, that the stones and the arrows of the Lamanites could not hurt them. And they were prepared, that they could cast stones from the top thereof, according to their pleasure and their strength, and slay him who should attempt to approach near the walls of the city. Thus Moroni did prepare strong holds against the coming of their enemies, round about every city in all the land.
+
+2. And it came to pass that Moroni caused that his armies should go forth into the east wilderness; yea, and they went forth and drove all the Lamanites who were in the east wilderness into their own lands, which were south of the land of Zarahemla; and the land of Nephi did run in a straight

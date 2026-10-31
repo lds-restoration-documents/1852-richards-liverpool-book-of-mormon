@@ -1,0 +1,12 @@
+<!-- image 210 -->
+**Header:** CHAP. X.] | BOOK OF MOSIAH. | 189
+
+<!-- cont --> in the borders of the land not many days before the coming of Ammon. And they brought a record with them, even a record of the people whose bones they had found: and they were engraven on plates of ore. And now Limhi was again filled with joy on learning from the mouth of Ammon that king Mosiah had a gift from God, whereby he could interpret such engravings; yea, and Ammon also did rejoice. Yet Ammon and his brethren were filled with sorrow because so many of their brethren had been slain; and also that king Noah and his priests had caused the people to commit so many sins and iniquities against God; and they also did mourn for the death of Abinadi; and also for the departure of Alma and the people that went with him, who had formed a church of God through the strength and power of God, and faith on the words which had been spoken by Abinadi; yea, they did mourn for their departure, for they knew not whither they had fled. Now they would have gladly joined with them, for they themselves had entered into a covenant with God, to serve him and keep his commandments. And now since the coming of Ammon king Limhi had also entered into a covenant with God, and also many of his people, to serve him and keep his commandments.
+
+27. And it came to pass that king Limhi and many of his people were desirous to be baptised; but there was none in the land that had authority from God. And Ammon declined doing this thing, considering himself an unworthy servant; therefore they did not at that time form themselves into a church, waiting upon the Spirit of the Lord. Now they were desirous to become even as Alma and his brethren, who had fled into the wilderness. They were desirous to be baptised, as a witness and a testimony that they were willing to serve God with all their hearts; nevertheless they did prolong the time: and an account of their baptism shall be given hereafter. And now all the study of Ammon and his people, and king Limhi and his people, was to deliver themselves out of the hands of the Lamanites, and from bondage.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER X.
+
+1. AND now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together: and this they did

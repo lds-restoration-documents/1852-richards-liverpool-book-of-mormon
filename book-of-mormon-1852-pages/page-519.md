@@ -1,0 +1,12 @@
+<!-- image 519 -->
+**Header:** 484 | BOOK OF NEPHI. | [CHAP. XII.
+
+<!-- cont --> and the earth should be wrapt together as a scroll, and the heavens and the earth should pass away; and even unto the great and last day, when all people, and all kindreds, and all nations and tongues shall stand before God, to be judged of their works, whether they be good or whether they be evil; if they be good, to the resurrection of everlasting life; and if they be evil, to the resurrection of damnation, being on a parallel, the one on the one hand, and the other on the other hand, according to the mercy, and the justice, and the holiness which is in Christ, who was before the world began.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER XII.
+
+1. AND now there cannot be written in this book, even a hundredth part of the things which Jesus did truly teach unto the people; but behold the plates of Nephi do contain the more part of the things which he taught the people; and these things have I written, which are a lesser part of the things which he taught the people; and I have written them to the intent that they may be brought again unto this people, from the Gentiles, according to the words which Jesus hath spoken. And when they shall have received this, which is expedient that they should have first, to try their faith, and if it shall so be that they shall believe these things, then shall the greater things be made manifest unto them. And if it so be that they will not believe these things, then shall the greater things be withheld from them, unto their condemnation. Behold I were about to write them all which were engraven upon the plates of Nephi, but the Lord forbid it, saying, I will try the faith of my people; therefore I Mormon, do write the things which have been commanded me of the Lord. And now I, Mormon, make an end of my sayings, and proceed to write the things which have been commanded me; therefore I would that ye should behold that the Lord truly did teach the people, for the space of three days; and after that, he did shew himself unto them oft, and did break bread oft, and bless it, and give it unto them.
+
+2. And it came to pass that he did teach and minister unto the children of the multitude of whom hath been spoken, and he did loose their tongues, and they did speak unto their fathers great and marvellous things, even greater than he had revealed unto the people, and loosed their tongues that

@@ -1,0 +1,12 @@
+<!-- image 152 -->
+**Header:** CHAP. V.] | BOOK OF JACOB. | 131
+
+<!-- cont --> concerning Christ, after so many have spoken concerning him; and deny the good word of Christ, and the power of God, and the gift of the Holy Ghost, and quench the Holy Spirit? and make a mock of the great plan of redemption, which hath been laid for you? Know ye not that if ye will do these things, that the power of the redemption and the resurrection which is in Christ, will bring you to stand with shame and awful guilt before the bar of God? And according to the power of justice; for justice cannot be denied, ye must go away into that lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up for ever and ever, which lake of fire and brimstone, is endless torment. O then, my beloved brethren, repent ye, and enter in at the straight gate, and continue in the way which is narrow, until ye shall obtain eternal life. O be wise: what can I say more? Finally, I bid you farewell, until I shall meet you before the pleasing bar of God, which bar striketh the wicked with awful dread and fear. Amen.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER V.
+
+1. AND now it came to pass after some years had passed away, there came a man among the people of Nephi, whose name was Sherem. And it came to pass that he began to preach among the people, and to declare unto them that there should be no Christ. And he preached many things which were flattering unto the people; and this he did that he might overthrow the doctrine of Christ. And he laboured diligently that he might lead away the hearts of the people, insomuch that he did lead away many hearts; and he knowing that I, Jacob, had faith in Christ who should come, he sought much opportunity that he might come unto me. And he was learned, that he had a perfect knowledge of the language of the people; wherefore, he could use much flattery, and much power of speech, according to the power of the devil. And he had hope to shake me from the faith, notwithstanding the many revelations, and the many things which I had seen concerning these things: for I truly had seen angels, and they had ministered unto me. And also, I had heard the voice of the Lord speaking unto me in very word, from time to time; wherefore, I could not be shaken.
+
+2. And it came to pass that he came unto me; and on this wise did he speak unto me, saying: Brother Jacob, I have

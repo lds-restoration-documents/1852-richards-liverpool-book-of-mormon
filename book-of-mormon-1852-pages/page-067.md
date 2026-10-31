@@ -1,0 +1,12 @@
+<!-- image 067 -->
+**Header:** 46 | FIRST BOOK OF NEPHI. | [CHAP. VI
+
+<!-- cont --> will I gather in, saith the Lord, according to the words of the prophet Zenos, from the four quarters of the earth; yea, and all the earth shall see the salvation of the Lord, saith the prophet; every nation, kindred, tongue, and people, shall be blessed.
+
+49 And I, Nephi, have written these things unto my people, that perhaps I might persuade them that they would remember the Lord their Redeemer; wherefore, I speak unto all the house of Israel, if it so be that they should obtain these things. For behold, I have workings in the spirit, which doth weary me, even that all my joints are weak, for those who are at Jerusalem; for had not the Lord been merciful, to show unto me concerning them, even as he had prophets of old, I should have perished also: and he surely did shew unto the prophets of old all things concerning them; and also he did shew unto many concerning us; wherefore, it must needs be that we know concerning them, for they are written upon the plates of brass.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER VI.
+
+1. Now it came to pass that I, Nephi, did teach my brethren these things; and it came to pass that I did read many things to them which were engraven upon the plates of brass, that they might know concerning the doings of the Lord in other lands, among people of old. And I did read many things unto them, which were written in the book of Moses; but that I might more fully persuade them to believe in the Lord their Redeemer, I did read unto them that which was written by the prophet Isaiah; for I did liken all scriptures unto us, that it might be for our profit and learning. Wherefore I spake unto them, saying, hear ye the words of the prophet, ye who are a remnant of the house of Israel, a branch who have been broken off; hear ye the words of the prophet, which were written unto all the house of Israel, and liken them unto yourselves, that ye may have hope as well as your brethren, from whom ye have been broken off; for after this manner has the prophet written—Hearken and hear this, O house of Jacob, who are called by the name of Israel, and are come forth out of the waters of Judah, who swear by the name of the Lord, and make mention of the God of Israel, yet they swear not in truth nor in righteousness; nevertheless they call themselves of the holy city, but they do not stay

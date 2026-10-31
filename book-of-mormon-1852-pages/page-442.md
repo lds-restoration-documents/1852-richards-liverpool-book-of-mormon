@@ -1,0 +1,12 @@
+<!-- image 442 -->
+**Header:** CHAP. III.] | BOOK OF HELAMAN. | 407
+
+<!-- cont --> God among the more wicked part of them, insomuch that this band of robbers was utterly destroyed from among the Lamanites. And it came to pass on the other hand, that the Nephites did build them up and support them, beginning at the more wicked part of them, until they had overspread all the land of the Nephites and had seduced the more part of the righteous until they had come down to believe in their works, and partake of their spoils, and to join with them in their secret murders and combinations. And thus they did obtain the sole management of the government, insomuch that they did trample under their feet, and smite, and rend, and turn their backs upon their poor, and the meek, and the humble followers of God. And thus we see that they were in an awful state, and ripening for an everlasting destruction. And it came to pass that thus ended the sixty and eight year of the reign of the judges over the people of Nephi.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER III.
+
+THE PROPHECY OF NEPHI, THE SON OF HELAMAN.—*God threatens the people of Nephi, that he will visit them in his anger, to their utter destruction, except they repent of their wickedness. God smiteth the people of Nephi with pestilence; they repent and turn unto him. Samuel, a Lamanite, prophesies unto the Nephites.*
+
+1. BEHOLD, now it came to pass in the sixty and ninth year of the reign of the judges over the people of the Nephites, that Nephi, the son of Helaman returned to the land of Zarahemla, from the land northward: for he had been forth among the people who were in the land northward, and did preach the word of God unto them, and did prophesy many things unto them; and they did reject all his words, insomuch that he could not stay among them, but returned again unto the land of his nativity; and seeing the people in a state of such awful wickedness, and those Gadianton robbers filling the judgment seats; having usurped the power and authority of the land; laying aside the commandments of God, and not in the least aright before him; doing no justice unto the children of men; condemning the righteous because of their righteousness; letting the guilty and the wicked go unpunished, because of their money; and moreover to be held in office at the head of government, to rule and do according

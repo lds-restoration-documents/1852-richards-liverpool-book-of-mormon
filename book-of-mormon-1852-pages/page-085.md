@@ -1,0 +1,12 @@
+<!-- image 085 -->
+**Header:** 64 | SECOND BOOK OF NEPHI. | [CHAP. IV.
+
+<!-- cont --> Yea, why should I give way to temptations, that the evil one have place in my heart, to destroy my peace and afflict my soul? Why am I angry because of mine enemy?
+
+6. Awake, my soul! No longer droop in sin. Rejoice, O my heart, and give place no more for the enemy of my soul. Do not anger again, because of mine enemies. Do not slacken my strength, because of mine afflictions. Rejoice, O my heart, and cry unto the Lord, and say, O Lord, I will praise thee for ever; yea, my soul will rejoice in thee, my God, and the rock of my salvation. O Lord, wilt thou redeem my soul? Wilt thou deliver me out of the hands of mine enemies? wilt thou make me that I may shake at the appearance of sin? May the gates of hell be shut continually before me, because, that my heart is broken and my spirit is contrite? O Lord, wilt thou not shut the gates of thy righteousness before me, that I may walk in the path of the low valley, that I may be strict in the plain road? O Lord, wilt thou encircle me around in the robe of thy righteousness? O Lord, wilt thou make a way for mine escape before mine enemies? Wilt thou make my path straight before me? Wilt thou not place a stumbling block in my way? But that thou wouldst clear my way before me, and hedge not up my way, but the ways of mine enemy. O Lord, I have trusted in thee, and I will trust in thee for ever. I will not put my trust in the arm of flesh; for I know that cursed is he that putteth his trust in the arm of flesh. Yea, cursed is he that putteth his trust in man, or maketh flesh his arm. Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I ask not amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the rock of my righteousness. Behold, my voice shall for ever ascend up unto thee, my rock and mine everlasting God. Amen.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER IV.
+
+1. BEHOLD it came to pass that I, Nephi, did cry much unto the Lord my God, because of the anger of my brethren. But behold, their anger did increase against me; insomuch that they did seek to take away my life. Yea, they did murmur against me, saying: Our younger brother thinks to rule over us; and we have had much trial because of him; wherefore, now let us slay him, that we may not be afflicted more because of his words. For behold, we will not have him to

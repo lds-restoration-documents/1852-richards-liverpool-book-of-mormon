@@ -1,0 +1,12 @@
+<!-- image 188 -->
+**Header:** CHAP. VII.] | BOOK OF MOSIAH. | 167
+
+<!-- cont --> till their ground. And now I, being old, did confer the kingdom upon one of my sons; therefore, I say no more. And may the Lord bless my people. Amen.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER VII.
+
+1. AND now it came to pass that Zeniff conferred the kingdom upon Noah, one of his sons; therefore Noah began to reign in his stead; and he did not walk in the ways of his father. For behold, he did not keep the commandments of God, but he did walk after the desires of his own heart. And he had many wives and concubines. And he did cause his people to commit sin, and do that which was abominable in the sight of the Lord. Yea, and they did commit whoredoms and all manner of wickedness. And he laid a tax of one fifth part of all they possessed: a fifth part of their gold and of their silver, and a fifth part of their ziff, and of their copper, and of their brass and their iron; and a fifth part of their fatlings; and also a fifth part of all their grain. And all this did he take to support himself, and his wives, and his concubines; and also his priests, and their wives, and their concubines; thus he had changed the affairs of the kingdom. For he put down all the priests that had been consecrated by his father; and consecrated new ones in their stead, such as were lifted up in the pride of their hearts. Yea, and thus they were supported in their laziness, and in their idolatry, and in their whoredoms, by the taxes which king Noah had put upon his people; thus did the people labour exceedingly to support iniquity. Yea, and they also became idolatrous, because they were deceived by the vain and flattering words of the king and priests; for they did speak flattering things unto them.
+
+2. And it came to pass that king Noah built many elegant and spacious buildings; and he ornamented them with fine work of wood, and of all manner of precious things, of gold, and of silver, and of iron, and of brass, and of ziff, and of copper; and he also built him a spacious palace, and a throne in the midst thereof, all of which was of fine wood, and was ornamented with gold and silver, and with precious things. And he also caused that his workmen should work all manner of fine work within the walls of the temple, of fine wood, and of copper, and of brass; and the seats which were set apart for the high priests, which were above all the other

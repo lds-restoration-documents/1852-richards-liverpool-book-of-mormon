@@ -1,0 +1,12 @@
+<!-- image 305 -->
+**Header:** 274 | BOOK OF ALMA. | [CHAP. XIV.
+
+<!-- cont --> upon the land which they called Desolation; it being so far northward that it came into the land which had been peopled, and been destroyed, of whose bones we have spoken, which was discovered by the people of Zarahemla; it being the place of their first landing. And they came from there up into the south wilderness. Thus the land on the northward was called Desolation, and the land on the southward was called Bountiful; it being the wilderness which is filled with all manner of wild animals of every kind; a part of which had come from the land northward for food. And now it was only the distance of a day and a half's journey for a Nephite, on the line Bountiful, and the land Desolation, from the east to the west sea; and thus the land of Nephi, and the land of Zarahemla, were nearly surrounded by water; there being a small neck of land between the land northward and the land southward.
+
+12. And it came to pass that the Nephites had inhabited the land Bountiful, even from the east unto the west sea, and thus the Nephites in their wisdom, with their guards and their armies, had hemmed in the Lamanites on the south, that thereby they should have no more possession on the north, that they might not overrun the land northward; therefore the Lamanites could have no more possessions only in the land of Nephi, and the wilderness round about. Now this was wisdom in the Nephites; as the Lamanites were an enemy to them, they would not suffer their afflictions on every hand, and also that they might have a country whither they might flee, according to their desires. And now I, after having said this, return again to the account of Ammon and Aaron, Omner and Himni, and their brethren.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER XIV.
+
+1. BEHOLD, now it came to pass that the king of the Lamanites sent a proclamation among all his people, that they should not lay their hands on Ammon, or Aaron, or Omner, or Himni, nor neither of their brethren who should go forth preaching the word of God, in whatsoever place they should be, in any part of their land; yea, he sent a decree among them, that they should not lay their hands on them to bind them, or to cast them into prison; neither should they spit upon them, nor smite them, nor cast them out of their synagogues, nor scourge them: neither should they cast stones at them, but

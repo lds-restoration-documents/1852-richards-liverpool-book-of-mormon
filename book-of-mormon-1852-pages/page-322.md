@@ -1,0 +1,14 @@
+<!-- image 322 -->
+**Header:** CHAP. XVI.] | BOOK OF ALMA. | 291
+
+<!-- cont --> many more such things did he say unto them, telling them that there could be no atonement made for the sins of men, but every man fared in this life according to the management of the creature; therefore every man prospered according to his genius, and that every man conquered according to his strength; and whatsoever a man did was no crime. And thus he did preach unto them, leading away the hearts of many, causing them to lift up their heads in their wickedness; yea, leading away many women, and also men, to commit whoredoms: telling them that when a man was dead, that was the end thereof.
+
+3. Now this man went over to the land of Jershon also, to preach these things among the people of Ammon, who were once the people of the Lamanites. But behold they were more wise than many of the Nephites; for they took him, and bound him, and carried him before Ammon, who was a High Priest over that people.
+
+4. And it came to pass that he caused that he should be carried out of the land. And he came over into the land of Gideon, and began to preach unto them also; and here he did not have much success, for he was taken and bound and carried before the High Priest, and also the Chief Judge over the land.
+
+5. And it came to pass that the High Priest said unto him, why do ye go about perverting the ways of the Lord? Why do ye teach this people that there shall be no Christ to interrupt their rejoicings? Why do ye speak against all the prophecies of the holy prophets? Now the High Priest's name was Giddonah. And Korihor said unto him, because I do not teach the foolish traditions of your fathers, and because I do not teach this people to bind themselves down under the foolish ordinances and performances which are laid down by ancient priests, to usurp power and authority over them, to keep them in ignorance, that they may not lift up their heads, but be brought down according to thy words. Ye say that this people is a free people. Behold, I say they are in bondage. Ye say that those ancient prophecies are true. Behold, I say that ye do not know that they are true. Ye say that this people is a guilty and a fallen people, because of the transgression of a parent. Behold, I say that a child is not guilty because of its parents. And ye also say that Christ shall come. But behold, I say that ye do not know that there shall be a Christ. And ye say also, that he shall be slain for the sins of the world; and thus ye lead away this people after the foolish traditions of
+
+---
+
+Footer: 2 C 2

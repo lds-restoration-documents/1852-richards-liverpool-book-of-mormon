@@ -1,0 +1,12 @@
+<!-- image 499 -->
+**Header:** 464 | BOOK OF NEPHI. | [CHAP. VII.<!-- uncertain: final period worn -->
+
+6. Therefore, whoso heareth these sayings of mine, and doeth them, I will liken him unto a wise man, who built his house upon a rock, and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not; for it was founded upon a rock. And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, who built his house upon the sand, and the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell, and great was the fall of it.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER VII.
+
+1. AND now it came to pass that when Jesus had ended these sayings, he cast his eyes round about on the multitude, and said unto them, behold, ye have heard the things which I have taught before I ascended to my Father; therefore whoso remembereth these sayings of mine, and doeth them, him will I raise up at the last day. And it came to pass that when Jesus had said these words, he perceived that there were some among them who marvelled, and wondered what he would concerning the law of Moses; for they understood not the saying that old things had passed away, and that all things had become new. And he said unto them, marvel not that I said unto you, that old things had passed away, and that all things had become new. Behold I say unto you, that the law is fulfilled that was given unto Moses. Behold, I am he that gave the law, and I am he who covenanted with my people Israel: therefore, the law in me is fulfilled, for I have come to fulfil the law; therefore it hath an end. Behold, I do not destroy the prophets, for as many as have not been fulfilled in me, verily I say unto you, shall all be fulfilled. And because I said unto you, that old things hath passed away, I do not destroy that which hath been spoken concerning which are to come. For behold, the covenant which I have made with my people is not all fulfilled; but the law which was given unto Moses, hath an end in me. Behold, I am the law, and the light; look unto me, and endure to the end, and ye shall live, for unto him that endureth to the end, will I give eternal life. Behold, I have given unto you the commandments; therefore keep my commandments. And this is the law and the prophets, for they truly testified of me.
+
+2. And now it came to pass that when Jesus had spoken these words, he said unto those twelve whom he had chosen, ye are

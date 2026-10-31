@@ -1,0 +1,12 @@
+<!-- image 594 -->
+**Header:** CHAP IX.] | BOOK OF MORONI. | 559
+
+## CHAPTER IX.
+
+<!-- small ornament (dot) printed left of the chapter heading -->
+
+*The Second Epistle of Mormon to his Son Moroni.*
+
+1. MY beloved son, I write unto you again, that ye may know that I am yet alive; but I write somewhat that which is grievous. For behold, I have had a sore battle with the Lamanites, in which we did not conquer; and Archeantus has fallen by the sword, and also Luram and Emron; yea, and we have lost a great number of our choice men. And now behold, my son, I fear lest the Lamanites shall destroy this people, for they do not repent, and satan stirreth them up continually to anger, one with another. Behold, I am labouring with them continually; and when I speak the word of God with sharpness, they tremble and anger against me; and when I use no sharpness, they harden their hearts against it; wherefore I fear lest the Spirit of the Lord hath ceased striving with them. For so exceedingly do they anger, that it seemeth me that they have no fear of death; and they have lost their love, one towards another; and they thirst after blood and revenge continually. And now my beloved son, notwithstanding their hardness, let us labour diligently; for if we should cease to labour, we should be brought under condemnation; for we have a labour to perform whilst in this tabernacle of clay, that we may conquer the enemy of all righteousness, and rest our souls in the kingdom of God.
+
+2. And now I write somewhat concerning the sufferings of this people. For according to the knowledge which I have received from Amoron, behold, the Lamanites have many prisoners, which they took from the tower of Sherrizah; and there were men, women, and children. And the husbands and fathers of those women and children they have slain; and they feed the women upon the flesh of their husbands, and the children upon the flesh of their fathers; and no water, save a little, do they give unto them. And notwithstanding this great abomination of the Lamanites, it doth not exceed that of our people in Moriantum. For behold, many of the daughters of the Lamanites have they taken prisoners; and after depriving them of that which was most dear and precious above all things, which is chastity and virtue; and after they had done this thing, they did murder them in a most cruel manner, torturing their bodies even unto death; and after they have done this, they devour their flesh like unto wild beasts, because of the hardness of their hearts;

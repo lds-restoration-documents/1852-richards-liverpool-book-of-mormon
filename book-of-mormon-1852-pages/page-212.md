@@ -1,0 +1,12 @@
+<!-- image 212 -->
+**Header:** CHAP. XI.] | BOOK OF MOSIAH. | 191
+
+<!-- cont --> land of Zarahemla, and joined his people, and became his subjects. And it came to pass that Mosiah received them with joy; and he also received their records, and also the records which had been found by the people of Limhi. And now it came to pass when the Lamanites had found that the people of Limhi had departed out of the land by night, that they sent an army into the wilderness to pursue them; and after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness.
+
+<!-- short centred rule printed above the chapter heading -->
+
+## CHAPTER XI.
+
+*An account of Alma and the people of the Lord, who were driven into the wilderness by the people of king Noah.*
+
+1. Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, and had made it known to his people, therefore they gathered together their flocks, and took of their grain, and departed into the wilderness before the armies of king Noah. And the Lord did strengthen them, that the people of king Noah could not overtake them, to destroy them. And they fled eight days' journey into the wilderness. And they came to a land, yea, even a very beautiful and pleasant land; a land of pure water. And they pitched their tents, and began to till the ground, and began to build buildings, &c.; yea, they were industrious, and did labour exceedingly. And the people were desirous that Alma should be their king, for he was beloved by his people. But he said unto them, behold, it is not expedient that we should have a king; for thus saith the Lord: Ye shall not esteem one flesh above another, or one man shall not think himself above another; therefore I say unto you, it is not expedient that ye should have a king. Nevertheless, if it were possible that ye could always have just men to be your kings, it would be well for you to have a king. But remember the iniquity of king Noah and his priests: and I myself was caught in a snare, and did many things which were abominable in the sight of the Lord, which caused me sore repentance; nevertheless, after much tribulation, the Lord did hear my cries, and did answer my prayers, and has made me an instrument in his hands, in bringing so many of you to a knowledge of his truth. Nevertheless, in this I do not glory, for I am unworthy to glory of myself. And now I say unto you, ye

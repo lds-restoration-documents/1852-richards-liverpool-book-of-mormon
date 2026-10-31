@@ -1,0 +1,12 @@
+<!-- image 480 -->
+**Header:** CHAP. III.] | BOOK OF NEPHI. | 445
+
+## CHAPTER III.
+
+1. AND now it came to pass that the people of the Nephites did all return to their own lands, in the twenty and sixth year, every man, with his family, his flocks and his herds, his horses and his cattle and all things whatsoever did belong unto them. And it came to pass that they had not eaten up all their provisions; therefore they did take with them all that they had not devoured, of all their grain of every kind, and their gold, and their silver, and all their precious things, and they did return to their own lands and their possessions, both on the north and on the south, both on the land northward and on the land southward. And they granted unto those robbers who had entered into a covenant to keep the peace, of the band who were desirous to remain Lamanites, lands, according to their numbers, that they might have, with their labors, wherewith to subsist upon; and thus they did establish peace in all the land. And they began again to prosper and to wax great; and the twenty and sixth and seventh years passed away, and there was great order in the land; and they had formed their laws according to equity and justice. And now there was nothing in all the land, to hinder the people from prospering continually, except they should fall into transgression. And now it was Gidgiddoni, and the judge Lachoneus, and those who had been appointed leaders, who had established this great peace in the land.
+
+2. And it came to pass that there were many cities built anew, and there were many old cities repaired; and there were many highways cast up, and many roads made, which led from city to city, and from land to land, and from place to place. And thus passed away the twenty and eighth year, and the people had continual peace. But it came to pass in the twenty and ninth year, there began to be some disputings among the people; and some were lifted up unto pride and boastings, because of their exceeding great riches yea, even unto great persecutions; for there were many merchants in the land, and also many lawyers, and many officers. And the people began to be distinguished by ranks; according to their riches, and their chances for learning; yea, some were ignorant because of their poverty, and others did re-receive great learning because of their riches; some were lifted up in pride, and others were exceeding humble; some did return railing for railing, while others would receive railing
+
+---
+
+Footer: 2 Q
