@@ -93,9 +93,9 @@ def main():
             kept.append(p)
         else:
             dropped.append((pg, p))
-    for out, fn in ((args.out, strip_verse), (args.out_verses, lambda p: p)):
+    for out, fn, variant in ((args.out, strip_verse, 'sparse, no verse numbers'), (args.out_verses, lambda p: p, 'sparse, with verse numbers')):
         text = '\n\n'.join(q for q in (fn(plain(p)) for p in kept) if q) + '\n'
-        text = re.sub(r'\n{3,}', '\n\n', text)
+        text = pagelist.txt_header(variant) + re.sub(r'\n{3,}', '\n\n', text)
         Path(out).write_text(text, encoding='utf-8')
         print(f'kept {len(kept)} paragraphs, dropped {len(dropped)}, {len(text.split())} words -> {out}')
     if args.verbose:

@@ -75,3 +75,12 @@ def strip_frontmatter(t):
         if end != -1:
             return t[end + 5:].lstrip('\n')
     return t
+
+
+REPO_URL = 'https://github.com/lds-restoration-documents/1852-richards-liverpool-book-of-mormon'
+
+
+def txt_header(variant=''):
+    """One-line header for the .txt outputs, followed by a blank line. variant: '' (full) or e.g. 'sparse, no verse numbers'."""
+    v = variant + ', ' if variant else ''
+    return f'# The Book of Mormon (Liverpool, 1852) ({v}AI draft, no full human proofread) - {REPO_URL}\n\n'

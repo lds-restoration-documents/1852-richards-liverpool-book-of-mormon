@@ -18,7 +18,7 @@ A text corpus, not software: AI-assisted transcription of the 1852 edition of th
 - A few PDF pages (4, 232, 427, 433, 461, 489) carry extra tiny image objects; `prepare_images.py` takes the largest.
 
 ## Files
-`book-of-mormon-1852.md` starts with generated YAML frontmatter (template `FRONTMATTER` and `build_version()` in `tools/compile_markdown.py`; version = latest tag, build date, hash of the last commit touching the page files; `+modified`/`+dirty` when pages differ from the release). Edit the template, never the generated file. Any script that reads the `.md` must call `pagelist.strip_frontmatter()` first; the `.txt` outputs and the typo catalog do not carry it. See `tools/README.md`.
+`book-of-mormon-1852.md` starts with generated YAML frontmatter (template `FRONTMATTER` and `build_version()` in `tools/compile_markdown.py`; version = latest tag, build date, hash of the last commit touching the page files; `+modified`/`+dirty` when pages differ from the release). Edit the template, never the generated file. Any script that reads the `.md` must call `pagelist.strip_frontmatter()` first; the `.txt` outputs carry only a one-line `# title (variant, AI draft, no full human proofread) - repo URL` header (`pagelist.txt_header()`, written by `make_plaintext.py` and `make_sparse.py`; nothing reads the `.txt` files back) and the typo catalog carries none. See `tools/README.md`.
 
 `book-of-mormon-1852-pages/page-NNN.md` (NNN = PDF page, 3 digits) are the source of truth; everything else is derived. Page images: `~/.venvs/lds-transcribe/bin/python tools/prepare_images.py --pages A-B` writes two overlapping halves `work/img/pNNNN_a.jpg` (top) and `_b.jpg` (bottom) per page; `--full` the whole page; `--clean` deletes.
 

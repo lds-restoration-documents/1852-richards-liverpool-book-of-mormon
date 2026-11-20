@@ -45,6 +45,7 @@ def main():
     ap.add_argument('--out', default=str(ROOT / 'book-of-mormon-1852.txt'))
     args = ap.parse_args()
     s = to_plaintext(pagelist.strip_frontmatter(Path(args.md).read_text(encoding='utf-8')))
+    s = pagelist.txt_header() + s
     Path(args.out).write_text(s, encoding='utf-8')
     print(f'{len(s.split())} words -> {args.out}')
 
